@@ -26,7 +26,7 @@ module.exports = {
       friendlyName: 'Timeout',
       description: 'The amount of time, in milliseconds, to allow for a successful connection to take place.',
       example: 10000,
-      defaultsTo: 15000
+      defaultsTo: 150000
     },
     //
     meta: {
